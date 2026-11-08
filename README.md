@@ -100,5 +100,8 @@ Assignment2/
 
 ## 9. Links
 
-- **GitHub Repository:** To be added
-- **Streamlit Application:** To be added
+GitHub Repository:
+https://github.com/vidhishah20/customer-churn-prediction
+
+Live Streamlit App:
+https://customer-churn-prediction-b35ftwwya5f4umy98zgrgu.streamlit.app/
